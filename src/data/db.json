@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sergio",
+      "cellNumber": "123456",
+      "password": "123456",
+      "image": "https://sm.ign.com/t/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.300.jpg",
+      "connected": false,
+      "phrase": "vive y deja vivir",
+      "last_connection": "2023-07-01T19:38:49.000-05:00"
+    },
+    {
+      "id": 2,
+      "name": "Pedro",
+      "cellNumber": "654321",
+      "password": "654321",
+      "image": "https://www.eluniverso.com/resizer/w6d0j61-bbcZQKZm2VCjEXkSswA=/503x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/RYNZFMQEE5DH5NJ4FHZ4FJRY5I.jpg",
+      "connected": true,
+      "phrase": "Sagrado Rostro",
+      "last_connection": "2023-07-01T19:38:58.378-05:00"
+    },
+    {
+      "name": "memin",
+      "cellNumber": "000000",
+      "password": "000000",
+      "image": "https://img.playbuzz.com/image/upload/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1539319589/um1zhghw1itmt5pufcof.jpg",
+      "connected": false,
+      "phrase": "Nos vientos",
+      "last_connection": "2023-07-01T01:11:44.885-05:00",
+      "id": 3
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "userFrom": 1,
+      "userTo": 2,
+      "dateTime": "2023-06-30T17:10:46.213-05:00",
+      "message": "Hola caballero 😀",
+      "viewed": true
+    },
+    {
+      "id": 2,
+      "userFrom": 2,
+      "userTo": 1,
+      "dateTime": "2023-06-30T17:18:23.613-05:00",
+      "message": "Monpirry soy Pedro!, Sagrado rostro! 😁😁",
+      "viewed": true
+    },
+    {
+      "userFrom": 2,
+      "userTo": "1",
+      "message": "Goselo papá 🤠",
+      "viewed": true,
+      "dateTime": "2023-06-30T17:22:08.827-05:00",
+      "id": 3
+    },
+    {
+      "userFrom": 2,
+      "userTo": "1",
+      "message": "🤠😁",
+      "viewed": true,
+      "dateTime": "2023-06-30T17:24:12.555-05:00",
+      "id": 4
+    },
+    {
+      "userFrom": 2,
+      "userTo": "1",
+      "message": "Se prendio la rumba!!🥳 ",
+      "viewed": true,
+      "dateTime": "2023-06-30T19:44:33.979-05:00",
+      "id": 5
+    },
+    {
+      "userFrom": 1,
+      "userTo": "2",
+      "message": "Será maestro??",
+      "viewed": true,
+      "dateTime": "2023-06-30T19:42:54.499-05:00",
+      "id": 6
+    },
+    {
+      "userFrom": 2,
+      "userTo": "3",
+      "message": "Primer mensaje a Memin!!",
+      "viewed": true,
+      "dateTime": "2023-06-30T20:36:58.068-05:00",
+      "id": 7
+    },
+    {
+      "userFrom": 2,
+      "userTo": "3",
+      "message": "Segundo mensaje a Memin!! donde etas!!!",
+      "viewed": true,
+      "dateTime": "2023-06-30T21:21:08.790-05:00",
+      "id": 8
+    },
+    {
+      "userFrom": 3,
+      "userTo": "2",
+      "message": "Aca toy! 👨🏾‍🦱  aiiiii ye! la chatiza",
+      "viewed": true,
+      "dateTime": "2023-07-01T01:10:42.323-05:00",
+      "id": 9
+    },
+    {
+      "userFrom": 2,
+      "userTo": "1",
+      "message": "Que si!, cabezón 🙃",
+      "viewed": true,
+      "dateTime": "2023-06-30T23:24:08.513-05:00",
+      "id": 10
+    },
+    {
+      "userFrom": 2,
+      "userTo": "1",
+      "message": "A la final esto es todo un \"esito\"🙊",
+      "viewed": true,
+      "dateTime": "2023-07-01T01:04:55.812-05:00",
+      "id": 11
+    },
+    {
+      "userFrom": 3,
+      "userTo": "2",
+      "message": "Nos vidrios Pedro",
+      "viewed": true,
+      "dateTime": "2023-07-01T01:11:33.612-05:00",
+      "id": 12
+    },
+    {
+      "userFrom": 2,
+      "userTo": 1,
+      "message": "Mi mompirry la calidad no se improvisa 😏",
+      "viewed": true,
+      "dateTime": "2023-07-01T11:47:02.804-05:00",
+      "id": 13
+    }
+  ]
+}
